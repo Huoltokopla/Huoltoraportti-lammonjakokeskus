@@ -1,0 +1,18 @@
+LJH-huoltoraportti, GitHub Pages PWA
+
+1. Pura ZIP-paketti.
+2. Lataa kaikki viisi tiedostoa GitHub-repositorion juureen:
+   index.html
+   manifest.webmanifest
+   service-worker.js
+   icon-192.png
+   icon-512.png
+3. Korvaa vanha index.html.
+4. Älä lataa ZIP-tiedostoa sellaisenaan GitHub Pagesiin, vaan ZIPin sisältämät tiedostot.
+5. Odota GitHub Pagesin päivittymistä muutama minuutti ja avaa:
+   https://huoltokopla.github.io/Huoltoraportti-lammonjakokeskus/
+
+PWA-tunnisteet:
+id: /Huoltoraportti-lammonjakokeskus/
+start_url: /Huoltoraportti-lammonjakokeskus/
+scope: /Huoltoraportti-lammonjakokeskus/
