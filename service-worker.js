@@ -1,4 +1,4 @@
-const CACHE_NAME = 'ljk-huoltoraportti-v27';
+const CACHE_NAME = 'ljh-huoltoraportti-v28';
 const APP_FILES = [
   './',
   './index.html',

@@ -1,7 +1,7 @@
 {
   "id": "/Huoltoraportti-lammonjakokeskus/",
-  "name": "Lämmönjakokeskuksen huoltoraportti",
-  "short_name": "LJK Huolto",
+  "name": "LJH-Huolto",
+  "short_name": "LJH-Huolto",
   "description": "Huoltokoplan lämmönjakokeskuksen huoltoraporttisovellus",
   "start_url": "/Huoltoraportti-lammonjakokeskus/",
   "scope": "/Huoltoraportti-lammonjakokeskus/",
